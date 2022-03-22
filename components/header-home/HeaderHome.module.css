@@ -1,0 +1,40 @@
+.header{
+  width: 100%;
+  height: 100vh;
+}
+
+.headerContent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  left: 0;
+  color: #fff;
+  max-height: inherit;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(158, 158, 158);
+}
+
+.container {
+  max-width: 1230px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.wrapperLogoNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 32px;
+  margin-bottom: 92px;
+}
+
+.title {
+  font-family: "YesevaOne-Regular";
+  font-weight: 100;
+  font-size: 48px;
+  max-width: 720px;
+  margin-top: 90px;
+  margin-bottom: 80px;
+}

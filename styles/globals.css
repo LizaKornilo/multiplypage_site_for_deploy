@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+:root {
+  --primary-color: #E31E25;
+  --pr-col: #C59D5F;
+}
